@@ -1,16 +1,13 @@
-# AMD OS X Bugtracker
+# AMD OSX Bugtracker
 
-Please use this to report any bugs/issues with your AMD macOS Installation.
+Please use this to report any bugs/issues with your AMD macOS Installation.<br>
+Remember to include all the information you can within your report following the template provided.
+<br>
 
-Remember to include all the imforation you can within your report following the template provided.
+To report bugs related to Opencore bootloader go [here](https://github.com/acidanthera/bugtracker).<br>
+To report bugs related to Clover bootloader go [here](https://github.com/CloverHackyColor/CloverBootloader/issues).
+<br>
 
-
-### If your issue is linked to OpenCore please use the OpenCore Vanilla Guide Troubleshooting found [here](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/troubleshooting/troubleshooting).
-
----
-
-| Title        | Link           |
-| ------------- |:-------------:|
-| AMD OS X Discord      | https://discord.gg/EfCYAJW |
-| Vanilla Guide      | https://vanilla.amd-osx.com/      |
-| AMD OS X Forum | https://forum.amd-osx.com/      |
+[Discord Server](https://discord.gg/VypMs8a) |
+[Vanilla Guide](https://vanilla.amd-osx.com) |
+[Forum](https://forum.amd-osx.com)
